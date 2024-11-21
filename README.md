@@ -12,9 +12,9 @@ The extension’s flexibility makes it suitable for various shipping scenarios, 
 
 ## **Key Features**
 
-* Customizable shipping rates based on conditions.  
-* CSV import/export for easy rate management.  
-* Real-time responsive shipping cost calculation.
+* Limit the availability of the shipping method to customers from specific countries. 
+* Option to exclude virtual products’ price and quantity from table rate calculations.  
+* Option to use only one shipping type for a shipping method.
 
 ## Custom Shipping Table Rates
 
